@@ -18,9 +18,9 @@ Xora is a modern designed landing page, with some cool and advanced features. A 
 # ⚡ Quick Start
 
 ```bash
-git clone
+git clone https://github.com/MO-GBR/xora_landing_page.git
 
-cd
+cd xora_landing_page
 
 npm install
 
