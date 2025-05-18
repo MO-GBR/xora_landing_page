@@ -4,7 +4,7 @@ Xora is a modern designed landing page, with some cool and advanced features. A 
 
 # 🔗 Live Demo
 
-👉 [View]()
+👉 [View](https://xora-landing-page-weld.vercel.app/)
 
 # 🛠️ Tech Stack
 - React JS
